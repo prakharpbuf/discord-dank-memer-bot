@@ -1,3 +1,3 @@
-# discord-dank-memer-bot
+# discord-dank-memer-coin-farmer
 
-This was created only for educational purpose
+This was only made for educational purpose
